@@ -1,5 +1,6 @@
 # squash-tcy
-Scripts to automate the cancellation of reservations on tcy.ch.
+
+Scripts to automate the cancellation of reservations on tcy.ch from a Google Sheet.
 
 What the scripts do:
 * send an email to all players (with a valid email address) listed in the
