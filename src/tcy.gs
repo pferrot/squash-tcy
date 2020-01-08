@@ -198,7 +198,7 @@ var TCY = function() {
 
 
     var charFour = pYear.charAt(3);
-    if (charFour == "3")
+    if (charFour == "0")
       result = result + "ZP";
     else if (charFour == "1")
       result = result + "ZF";
